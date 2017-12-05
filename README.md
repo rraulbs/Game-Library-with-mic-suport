@@ -1,0 +1,5 @@
+# Game-Library-with-mic-suport
+
+The idea is to develop a game library with this simple resource. 
+A disabled person or person with reduced mobility will be able to play without a joystick. 
+You just have to whisper or make some noise to perform an action in the game.
