@@ -1,6 +1,6 @@
 # Game-Library-with-mic-suport
 
- https://rraulbs.github.io/Game-Library-with-mic-suport/
+Play the games here: https://rraulbs.github.io/Game-Library-with-mic-suport/
 
 All games in this library are known, and with extra functionality, microphone support.
 
