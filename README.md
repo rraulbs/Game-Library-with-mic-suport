@@ -13,6 +13,6 @@ Labyrinth:
 https://github.com/Felipe-Assis/Labyrinth
 
 FlappyBird
-https://rraulbs.github.io/FlappyBird_Version_clap/
+https://github.com/rraulbs/FlappyBird_Version_clap
 
 Others... coming soon...
